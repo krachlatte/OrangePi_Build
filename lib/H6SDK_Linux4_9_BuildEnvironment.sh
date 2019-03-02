@@ -12,7 +12,7 @@ if [ -z $TOP_ROOT ]; then
 fi
 
 # Github
-Linux4.9_GITHUB="https://github.com/orangepi-xunlong/OrangePiH6_Linux4.9.git"
+Linux49_GITHUB="https://github.com/orangepi-xunlong/OrangePiH6_Linux4.9.git"
 uboot_GITHUB="https://github.com/orangepi-xunlong/OrangePiH6_uboot.git"
 scripts_GITHUB="https://github.com/orangepi-xunlong/OrangePiH6_scripts.git"
 external_GITHUB="https://github.com/orangepi-xunlong/OrangePiH6_external.git"
@@ -20,7 +20,7 @@ toolchain="https://codeload.github.com/orangepi-xunlong/OrangePiH6_toolchain/zip
 
 # Prepare dirent
 Prepare_dirent=(
-Linux4.9
+Linux49
 uboot
 scripts
 external
