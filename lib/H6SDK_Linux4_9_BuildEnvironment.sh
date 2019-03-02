@@ -4,8 +4,8 @@
 # Write by: Leeboby
 # Date:     2018-04-09
 
-set -e
-set -x
+# set -e
+# set -x
 
 if [ -z $TOP_ROOT ]; then
     TOP_ROOT=`cd .. && pwd`
